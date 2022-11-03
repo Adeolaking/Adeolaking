@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+**I'm a frontend Developer and self-devlopment addict**
+
+**I'm reponsible for developing implimenting and devloping sturning user interfases**
+
+- using React
+- JavaScript 
+- HTML 5
+- CSS3
+- Scss
+<!-- 
+ 🔭 I’m currently working on ... -->
+- 🌱 i love learning everyday and I’m currently growing my knowledge on React | javaScript | Tailwind | Business | Technical writing | Public Speacking and more...
+- 💬 Ask me about frontend development, Business, self development and web development 
+- 📫 How to reach me: adeolakinga@gmail.com...
+
+
 <!--
 **Adeolaking/Adeolaking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
