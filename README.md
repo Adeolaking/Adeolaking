@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm a frontend Developer and self-devlopment addict**
+**I'm a Mern Start Developer and a self-devlopment addict**
 
 **I'm reponsible for developing implimenting and devloping sturning user interfases**
 
