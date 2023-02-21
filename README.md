@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm a Mern Start Developer and a self-devlopment addict**
+**I'm a MERN Stact Developer and a self-devlopment addict**
 
 **I'm reponsible for developing implimenting and devloping sturning user interfases**
 
