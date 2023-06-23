@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-**I'm a Frontend Developer and a self-devlopment addict**
+**I'm a Web Developer and a self-devlopment addict**
 
-**I'm reponsible for developing implimenting and devloping sturning user interfases**
+**I implement and devlop sturning user interfases**
 
 - using React
 - JavaScript 
