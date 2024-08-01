@@ -1,19 +1,7 @@
 ### Hi there 👋
 
-**I'm a Web Developer and a self-devlopment addict**
+**I'm a Project | Product Manager**
 
-**I implement and devlop sturning user interfases**
-
-- using React
-- JavaScript 
-- HTML 5
-- CSS3
-- Scss
-<!-- 
- 🔭 I’m currently working on ... -->
-- 🌱 I’m currently growing my knowledge on React | javaScript | Tailwind | Business | Technical writing | Public Speacking and more...
-- 💬 Ask me about frontend development, Business, self development and web development 
-- 📫 How to reach me: adeolakinga@gmail.com...
 
 
 <!--
